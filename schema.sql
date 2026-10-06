@@ -1,4 +1,3 @@
-
 DROP TABLE IF EXISTS telemetri;
 
 CREATE TABLE telemetri (
